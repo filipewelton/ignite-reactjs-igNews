@@ -1,0 +1,32 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "brave"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Matter"
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Aliqua cupidatat ad minim. Officia minim elit cupidatat. Ad ipsum qui laborum exercitation non anim eiusmod mollit."
+        }
+      }
+    ]
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}

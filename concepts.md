@@ -1,0 +1,11 @@
+- server side rendering
+- layout shift
+- single page application
+- static site generation
+- get server side props
+- get static props
+- serverless
+- route queries
+- public environment variables
+- API routes
+- JAMStack
